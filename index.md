@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
  The Mac OS Operating System is a cooperative multitasking system which directly supports networks with file exchange, AppleScript as scripting language and display of colors. The balloons provide help to the user to use the interface. It also enables the virtual memory.
 ## Header 2
+Microsoft Windows Operating System includes tools such as Web Notes, which allows users to mark up websites, and reading View, which allows users to view certain websites without a bunch of ads. It also manages the computer's central processing unit, memory, disk drives, and printers, establishes a user interface, and executes and provides services for applications software.
 ### Header 3
 
 - Bulleted
