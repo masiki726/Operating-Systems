@@ -12,7 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+The Mac OS operating system is a cooperative multitasking system which directly supports networks with file exchange, AppleScript as scripting language and display of colors. The balloons provide help to the user to use interface. In Mac OS Operating System the virtual memory is enabled.
+
 ## Header 2
+Microsoft windows Operating System  includes tools such as Web Notes, which allows users to mark up web sites, and Reading View, which allows users to view certain websites without the clutter of ads.
 ### Header 3
 
 - Bulleted
